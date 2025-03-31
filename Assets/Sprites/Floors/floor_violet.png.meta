@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: e4e2fb457a311894293d0ed7fcb0eb34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6751436263034430836
+    second: floor_violet_0
+  - first:
+      213: -4225785207873364065
+    second: floor_violet_1
+  - first:
+      213: -5333798414755360239
+    second: floor_violet_2
+  - first:
+      213: -6951604371811972292
+    second: floor_violet_3
+  - first:
+      213: -430748094732220229
+    second: floor_violet_4
+  - first:
+      213: -5258697706383830308
+    second: floor_violet_5
+  - first:
+      213: -6020928532718349303
+    second: floor_violet_6
+  - first:
+      213: -873673200764332804
+    second: floor_violet_7
+  - first:
+      213: 8402302974480303544
+    second: floor_violet_8
+  - first:
+      213: -3668216956219105556
+    second: floor_violet_9
+  - first:
+      213: -6428504711257875619
+    second: floor_violet_10
+  - first:
+      213: -1988538496097197027
+    second: floor_violet_11
+  - first:
+      213: -788013177669859869
+    second: floor_violet_12
+  - first:
+      213: 7033539929180137468
+    second: floor_violet_13
+  - first:
+      213: 8270708175845382315
+    second: floor_violet_14
+  - first:
+      213: -2191895661040162139
+    second: floor_violet_15
+  - first:
+      213: 5984771297288996144
+    second: floor_violet_16
+  - first:
+      213: 7251997779903273922
+    second: floor_violet_17
+  - first:
+      213: -2487150619985338793
+    second: floor_violet_18
+  - first:
+      213: -6614007556653157299
+    second: floor_violet_19
+  - first:
+      213: 6558782504840625942
+    second: floor_violet_20
+  - first:
+      213: -253193920005865669
+    second: floor_violet_21
+  - first:
+      213: -900209714831777948
+    second: floor_violet_22
+  - first:
+      213: -7515548658052853363
+    second: floor_violet_23
+  - first:
+      213: -5559405791726060389
+    second: floor_violet_24
+  - first:
+      213: -1759117544709475985
+    second: floor_violet_25
+  - first:
+      213: 6295629316684186397
+    second: floor_violet_26
+  - first:
+      213: 5713382162663592583
+    second: floor_violet_27
+  - first:
+      213: 1424124469611101662
+    second: floor_violet_28
+  - first:
+      213: -1054684651815061760
+    second: floor_violet_29
+  - first:
+      213: -8773720667317226018
+    second: floor_violet_30
+  - first:
+      213: 3455792333668295438
+    second: floor_violet_31
+  - first:
+      213: 1071214107511814567
+    second: floor_violet_32
+  - first:
+      213: -4873771234880523081
+    second: floor_violet_33
+  - first:
+      213: 6707415834409166238
+    second: floor_violet_34
+  - first:
+      213: 8580842426369739144
+    second: floor_violet_35
+  - first:
+      213: 1505281353645423934
+    second: floor_violet_36
+  - first:
+      213: 5362883865548476225
+    second: floor_violet_37
+  - first:
+      213: -2940440282115883820
+    second: floor_violet_38
+  - first:
+      213: -553783114860659869
+    second: floor_violet_39
+  - first:
+      213: -5809880968657416623
+    second: floor_violet_40
+  - first:
+      213: -1727470001665695365
+    second: floor_violet_41
+  - first:
+      213: 8308346666928363043
+    second: floor_violet_42
+  - first:
+      213: -2380837216600415281
+    second: floor_violet_43
+  - first:
+      213: -5471287663911368150
+    second: floor_violet_44
+  - first:
+      213: -2129388022210160958
+    second: floor_violet_45
+  - first:
+      213: -1005532430653191759
+    second: floor_violet_46
+  - first:
+      213: -5135596990385206800
+    second: floor_violet_47
+  - first:
+      213: -144761168610575418
+    second: floor_violet_48
+  - first:
+      213: 569486548089252841
+    second: floor_violet_49
+  - first:
+      213: 1283623196438711657
+    second: floor_violet_50
+  - first:
+      213: 6890984447170209731
+    second: floor_violet_51
+  - first:
+      213: -4977536732240084203
+    second: floor_violet_52
+  - first:
+      213: -8104697942096137259
+    second: floor_violet_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor_violet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475abd5b28be1bd50800000000000000
+      internalID: 6751436263034430836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_violet_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9b9b1ebefa55c0800000000000000
+      internalID: -4225785207873364065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_violet_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11217f8f99a8af5b0800000000000000
+      internalID: -5333798414755360239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_violet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b481fa7a0f68f90800000000000000
+      internalID: -6951604371811972292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_violet_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84fc9d3eca50af0800000000000000
+      internalID: -430748094732220229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_violet_5
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd294dd3c4a5507b0800000000000000
+      internalID: -5258697706383830308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
